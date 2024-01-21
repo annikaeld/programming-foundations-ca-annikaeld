@@ -20,3 +20,16 @@ body {
 	text-decoration: underline;
 	cursor: pointer;
 }
+
+button {
+	max-width: 24rem;
+	margin: 1rem;
+	text-align: center;
+
+}
+
+.cta {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
