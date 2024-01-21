@@ -1,6 +1,6 @@
 const myBookshelf = {
   typeOfMedia: "Audio",
-  SpacesOnShelf: 9,
+  spacesOnShelf: 9,
   loggedIn: true,
   books: [
     {
