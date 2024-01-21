@@ -2,3 +2,22 @@ body {
 	font-family: sans-serif;
 	padding: 1em 3em;
 }
+
+
+.bookshelf {
+	font-family: 'Audiowide', sans-serif;
+	margin: 50px auto;
+	font-size: 1.2rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	background-color: #BAE1FF;
+	margin: 0;
+	box-shadow: inset #65AEFC 0px 0px 60px -12px;
+	color: black;
+}
+
+.bookshelf li:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
