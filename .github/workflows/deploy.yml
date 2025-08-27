@@ -1,5 +1,3 @@
-2. Add this code to `deploy.yml`:
-
 name: Deploy to GitHub Pages
 
 on:
